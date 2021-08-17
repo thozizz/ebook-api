@@ -1,0 +1,20 @@
+[{
+	"nama" : "Thoriq",
+	"kelas" : "12 RPL 2",
+	"Semester" : 5,
+	"Hobby" : ["gaming","coding"],
+	"Mapel" : {
+		"kk2" : "database",
+		"kk4" : "mobile dan web"
+	}
+},
+{
+	"nama" : "Thoriq",
+	"kelas" : "12 RPL 2",
+	"Semester" : 5,
+	"Hobby" : ["gaming","coding"],
+	"Mapel" : {
+		"kk2" : "database",
+		"kk4" : "mobile dan web"
+	}
+}]
