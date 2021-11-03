@@ -1,0 +1,25 @@
+[{
+	"nama" : "Thoriq",
+	"umur" : 25,
+	"Sekolah" : "SMK Telkom",
+	"Hobby" : ["Gaming", "coding"],
+	"kelas" : "12 RPL 1",
+	"Mapel" : {
+		"KK2" :"database",
+		"KK4" : "pemrogaman web & mobile"
+	}
+
+},
+{
+	"nama" : "Thoriq",
+	"umur" : 25,
+	"Sekolah" : "SMK Telkom",
+	"Hobby" : ["Gaming", "coding"],
+	"kelas" : "12 RPL 1",
+	"Mapel" : {
+		"KK2" :"database",
+		"KK4" : "pemrogaman web & mobile"
+	}
+
+}
+]

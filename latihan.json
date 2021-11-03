@@ -1,0 +1,18 @@
+[{
+	"nama" : "Thoriq",
+	"Kelas" : "XII RPL 3",
+	"Hobby" : [ "Coding", "Gaming"],
+	"Mapel" : {
+		"KK2" : "Database",
+		"KK4" : "Pemrograman web"
+	}
+},
+{
+	"nama" : "Thoriq",
+	"Kelas" : "XII RPL 3",
+	"Hobby" : [ "Coding", "Gaming"],
+	"Mapel" : {
+		"KK2" : "Database",
+		"KK4" : "Pemrograman web"
+	}
+}]
